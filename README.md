@@ -30,8 +30,3 @@ cd To-Do-list
 
 Open the index.html file in your web browser.
 
-Contributing
-
-Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
-
-License
